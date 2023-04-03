@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body, html {
+  width: 100%;
+    height: 100%;
+  }
+  
+  body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .container-fluid {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #searchContainer {
+    background-color: rgba(141, 213, 233, 0.967);
+    padding-left: 30px;
+  }
+  
+  #weatherContainer {
+    padding-right: 30px;
+  }
+  
+  #currentWeatherContainer {
+    background-color: rgb(142, 213, 233);
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #searchContainer > h4 {
+    padding-top: 20px;
+ 
+  }
+  
+  #currentWeatherContainer > h2,
+  img {
+    display: inline;
+    padding-right: 10px;
+  }
+  
+  #forecastContainer {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #e9a26e;
+    color: rgb(255, 255, 255);
+  }
+  
+  span {
+  padding: 5px;
+  margin-left: 5px;
+  border-radius: 15%;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  .card-body  {
+    background-color: #e9a26e;
+    text-align: center;
+    font-weight: bold;
+    width: 160px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .searchListBtn {
+    text-align: left;
+  }
