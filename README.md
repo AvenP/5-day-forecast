@@ -17,4 +17,12 @@ Created css-work branch
 
 Created java-work branch
 
+    Created function to get items from storage, pull last array item on page load
+    API call for current day weather and call API data functions	
+    Made const handleWeatherData for current day data and elements
+    made API call and function for uv index and conditional statements for uv color status
+    API call for 5 day forecast and 5 day  data and elements
+    Added event listener for user search input
+
+![image](https://user-images.githubusercontent.com/123212035/229681507-e00ea505-d21b-45d2-bc90-d69360d7ee19.png)
 
