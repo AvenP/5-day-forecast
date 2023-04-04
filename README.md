@@ -1,5 +1,7 @@
 I used class replays, W3school, and stackoverflow to help me with the task.
 
+live page link: https://avenp.github.io/5-day-forecast/
+
 Created html-work branch
 
     Linked bootstrap, fontawesome, jquery, css, and script.js.
